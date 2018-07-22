@@ -2,6 +2,8 @@
 
 Cursed DF Launcher is, obviously, a launcher for Dwarf Fortress. It is built using [Cursive](https://github.com/gyscos/Cursive), henced *Cursed* DF Launcher.
 
+![Example](doc/example.png)
+
 ## Features
 
 - Launch Dwarf Fortress
